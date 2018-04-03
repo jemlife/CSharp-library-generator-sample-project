@@ -1,0 +1,65 @@
+C:\Users\jeremy.greenwood\documents\visual studio 2017\Projects\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe.config
+C:\Users\jeremy.greenwood\documents\visual studio 2017\Projects\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe
+C:\Users\jeremy.greenwood\documents\visual studio 2017\Projects\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.pdb
+C:\Users\jeremy.greenwood\documents\visual studio 2017\Projects\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.greenwood\documents\visual studio 2017\Projects\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.exe
+C:\Users\jeremy.greenwood\documents\visual studio 2017\Projects\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.pdb
+C:\Users\jeremy.greenwood\Documents\jeremytraining\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe.config
+C:\Users\jeremy.greenwood\Documents\jeremytraining\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe
+C:\Users\jeremy.greenwood\Documents\jeremytraining\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.pdb
+C:\Users\jeremy.greenwood\Documents\jeremytraining\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.greenwood\Documents\jeremytraining\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.exe
+C:\Users\jeremy.greenwood\Documents\jeremytraining\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.pdb
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe.config
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.pdb
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.exe
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.pdb
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe.config
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.exe
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\LibraryGenerator.pdb
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.csprojResolveAssemblyReference.cache
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.exe
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\obj\Debug\LibraryGenerator.pdb
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\EntityFramework.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.FtpClient.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\EntityFramework.xml
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.xml
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.FtpClient.xml
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\QuoteExpress.CommonControls.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\QuoteSoft.CommonControls.dll
+C:\Users\jeremy.greenwood\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\QuoteSoft.CommonDataModel.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\EntityFramework.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\KellermanSoftware.Compare-NET-Objects.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.FtpClient.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\EntityFramework.xml
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\KellermanSoftware.Compare-NET-Objects.xml
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.FtpClient.xml
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Jem\Documents\librarygenerator\LibraryGenerator\LibraryGenerator\bin\Debug\System.Net.Http.Primitives.xml
